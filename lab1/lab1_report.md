@@ -74,7 +74,7 @@ Date of finished: 13.02.2024
 
 Теперь телефоны должны друг друга видеть. В графическом интерфейсе букально можно позвонить с одного на другой, при этом услышать характерный звук звонка:
 
-![telegram-cloud-photo-size-2-5350310077560641642-x](https://github.com/oxxawsm/2023_2024-ip-telephony-k34212-titenko_e_v/assets/63160594/8660bb7c-2f21-4771-946b-7d8eda90aef0) ![telegram-cloud-photo-size-2-5350310077560641650-x](https://github.com/oxxawsm/2023_2024-ip-telephony-k34212-titenko_e_v/assets/63160594/33921f92-889a-4dc3-8c15-32b98e545353)
+![telegram-cloud-photo-size-2-5350310077560641410-y](https://github.com/oxxawsm/2023_2024-ip-telephony-k34212-titenko_e_v/assets/63160594/0933c97c-0724-416c-9ffc-9ee8fba23b75)
 
 ## Вывод
 
