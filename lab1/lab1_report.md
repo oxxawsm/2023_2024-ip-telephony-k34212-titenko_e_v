@@ -2,7 +2,7 @@ University: ITMO University
 
 Faculty: FICT
 
-Course: Network programming
+Course: IP-Telephony
 
 Year: 2023/2024
 
